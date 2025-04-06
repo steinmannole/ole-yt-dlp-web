@@ -10,6 +10,8 @@ This project is a simple web application that allows users to download YouTube v
 - Responsive design using Bootstrap
 
 ## Structure
+
+```
 yt-dlp-web
 ├── downloads                 # Ordner für heruntergeladene Videos
 │   └── *.mp4.part            # Temporäre Dateien während des Downloads
@@ -28,6 +30,7 @@ yt-dlp-web
 ├── requirements.txt          # Abhängigkeiten des Projekts
 ├── README.md                 # Projektdokumentation
 └── LICENSE                   # Lizenzdatei
+```
 
 ## Installation
 
